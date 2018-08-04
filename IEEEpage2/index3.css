@@ -1,0 +1,53 @@
+
+body{
+    background: black;
+}
+/*NAVBAR */
+#logo{
+    height: 100px  ;
+    width: 120px;
+    margin: 10px;
+}
+a{
+    margin: 20px;
+    color: white;
+}
+.nav-bar{
+    margin: 0px;
+    width: 100%;
+}
+/*BODY */
+.rec{
+    margin: 20px;
+    height: 50px;
+    width: 350px;
+}
+.top-rectangle{
+    background:gray;
+    border-radius: 15px;
+    height: 50px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.text-position{
+    color: white;
+    font-size: 1.2em;
+    font-family: cursive;
+    font-weight: bold;
+    position: absolute;
+    top:30px ;
+    left: 50px;
+}
+/*card pic*/
+.card-pic{
+    height: 150px;
+    width: 180px;
+}
+.card-text{
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: cursive;
+}
